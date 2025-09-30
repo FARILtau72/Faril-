@@ -33,3 +33,12 @@ Saat ini website hanya terdiri dari **1 halaman (`index.html`)**, namun tetap re
 
 ## 📂 Struktur Repository
 
+---
+
+## 🚀 Cara Menjalankan
+
+1. Clone repo ini:
+   ```bash
+   git clone https://github.com/username/Faril-.git
+
+
